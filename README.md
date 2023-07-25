@@ -1,4 +1,4 @@
-<img src='https://github.com/MrFast-js/MrFast-js/blob/main/image.png?raw=true'/>
+<img src='https://github.com/MrFast-js/MrFast-js/blob/main/image(1).png?raw=true'/>
 
 ![](https://komarev.com/ghpvc/?username=MrFast-js&label=Profile%20Views&color=04aed9&style=for-the-badge) &nbsp;
 ![](https://img.shields.io/github/followers/MrFast-js?label=Followers&color=04aed9&style=for-the-badge)
