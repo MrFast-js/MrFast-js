@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=MrFast-js&label=Profile%20Views&logo=github&color=04aed9&style=for-the-badge)
 ### Hi there 👋
 
 <!--
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
   - Discord: mrfast
 - 😄 Pronouns: Normal
 - ⚡ Fun fact: People arent very common sense
-![](https://komarev.com/ghpvc/?username=MrFast-js&label=Profile%20Views&logo=github&color=04aed9&style=for-the-badge)
