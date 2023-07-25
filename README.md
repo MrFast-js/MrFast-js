@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Normal
 - ⚡ Fun fact: People aren't very common sense
 
-[![MrFast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFast-js)](https://github.com/MrFast-js/github-readme-stats?show_icons=true&theme=radical)
+[![MrFast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFast-js)](https://github.com/MrFast-js/github-readme-stats?show_icons=true&theme=Gradient)
