@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=MrFast-js&label=Profile%20Views&color=04aed9&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=MrFast-js&label=Profile%20Views&color=04aed9&style=for-the-badge) &nbsp;
 ![](https://img.shields.io/github/followers/MrFast-js?label=Followers&color=04aed9&style=for-the-badge)
 ### Hi there 👋
 
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Normal
 - ⚡ Fun fact: People aren't very common sense
 
-[![MrFast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFast-js)](https://github.com/MrFast-js/github-readme-stats?show_icons=true&theme=Gradient)
+![MrFast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFast-js&show_icons=true&theme=transparent&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C)
+ &nbsp;         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFast-js&show_icons=true&theme=transparent&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)
