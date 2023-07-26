@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Normal
 - ⚡ Fun fact: People aren't very common sense
 
-![MrFast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFast-js&show_icons=true&theme=transparent&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C)
- &nbsp;         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFast-js&show_icons=true&theme=transparent&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)
+![MrFast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFast-js&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C)
+ &nbsp;         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFast-js&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)
