@@ -11,11 +11,6 @@
 
 ### Hi there 👋
 
-<!--
-**MrFast-js/MrFast-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on [Skyblock Features](https://github.com/MrFast-js/SkyblockFeatures)
 - 🌱 I’m currently learning about Andriod App Making
 - 🤔 I’m looking for help with [Skyblock Features](https://github.com/MrFast-js/SkyblockFeatures)
@@ -25,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Normal
 - ⚡ Fun fact: People aren't very common sense
 
-![MrFast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFast-js&show_icons=true&theme=dark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C)
- &nbsp;
-![test](https://github-readme-streak-stats.herokuapp.com/?user=MrFast-js&theme=dark&show_icons=true&theme=dark)
+#
+![MrFast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFast-js&show_icons=true&theme=dark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C) &nbsp;
+![test](https://github-readme-streak-stats.herokuapp.com/?user=MrFast-js&theme=dark&show_icons=true&theme=dark) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFast-js&show_icons=true&theme=dark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)
