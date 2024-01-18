@@ -17,7 +17,7 @@
 - 💬 Ask me about Java or Contributing
 - 📫 How to reach me: 
   - Discord: mrfast
-- 😄 Pronouns: Normal
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: People aren't very common sense
 
 #
