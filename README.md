@@ -11,9 +11,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Skyblock Features](https://github.com/MrFast-js/SkyblockFeatures)
-- 🌱 I’m currently learning about Andriod App Making
-- 🤔 I’m looking for help with [Skyblock Features](https://github.com/MrFast-js/SkyblockFeatures)
 - 💬 Ask me about Java or Contributing
 - 📫 How to reach me: 
   - Discord: mrfast
