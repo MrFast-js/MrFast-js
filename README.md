@@ -9,14 +9,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
 
-### Hi there 👋
-
-- 💬 Ask me about Java or Contributing
-- 📫 How to reach me: 
-  - Discord: mrfast
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: People aren't very common sense
-
 #
 ![MrFast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFast-js&show_icons=true&theme=dark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C) &nbsp;
 ![test](https://github-readme-streak-stats.herokuapp.com/?user=MrFast-js&theme=dark&show_icons=true&theme=dark) &nbsp;
