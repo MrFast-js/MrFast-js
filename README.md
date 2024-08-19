@@ -1,7 +1,6 @@
-<img src='https://github.com/MrFast-js/MrFast-js/blob/main/image(1).png?raw=true'/>
+
 
 ![](https://komarev.com/ghpvc/?username=MrFast-js&label=Profile%20Views&color=04aed9&style=for-the-badge) &nbsp;
-![](https://img.shields.io/github/followers/MrFast-js?label=Followers&color=04aed9&style=for-the-badge) &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-3c3884.svg?style=for-the-badge&logo=kotlin) &nbsp;
