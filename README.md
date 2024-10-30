@@ -9,6 +9,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
 
 #
-![MrFast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFast-js&show_icons=true&theme=dark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C) &nbsp;
-![test](https://github-readme-streak-stats.herokuapp.com/?user=MrFast-js&theme=dark&show_icons=true&theme=dark) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFast-js&show_icons=true&theme=dark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MrFast-js&show_icons=true&theme=dark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&card_width=450" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFast-js&show_icons=true&theme=dark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact&card_width=450" />
+</a>
